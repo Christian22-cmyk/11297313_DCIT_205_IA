@@ -1,7 +1,10 @@
 .see{
-    width: 560;
-height: 240;
+    width: 275px;
+height: 183px;
 }
 .im{
     margin-bottom: -10px;
+}
+.cen{ float: middle;
+    
 }
